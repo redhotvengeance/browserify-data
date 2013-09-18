@@ -1,0 +1,31 @@
+{
+  "name": "browserify-data",
+  "description": "browserify transform to compile data files.",
+  "version": "0.0.0",
+  "author": {
+    "name": "Ian Lollar",
+    "email": "rhv@redhotvengeance.com",
+    "url": "http://redhotvengeance.com"
+  },
+  "keywords": [
+    "browserify",
+    "data",
+    "json",
+    "cson",
+    "yaml",
+    "plugin",
+    "transform"
+  ],
+  "engines" : ["node"],
+  "repository":   {
+    "type": "git",
+    "url": "git://github.com/redhotvengeance/browserify-data.git"
+  },
+  "homepage": "https://github.com/redhotvengeance/browserify-data",
+  "main" : "./lib/browserify-data",
+  "dependencies": {
+    "through": "~2.3.4",
+    "cson": "~1.4.4",
+    "js-yaml": "~2.1.0"
+  }
+}
