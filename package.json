@@ -1,7 +1,7 @@
 {
   "name": "browserify-data",
   "description": "browserify transform to compile data files.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": {
     "name": "Ian Lollar",
     "email": "rhv@redhotvengeance.com",
