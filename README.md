@@ -38,7 +38,7 @@ b.bundle(...);
 ...or the CLI:
 
 ```bash
-browserify -t browserify-cson main.js > bundle.js
+browserify -t browserify-data main.js > bundle.js
 ```
 
 ## Contribute
